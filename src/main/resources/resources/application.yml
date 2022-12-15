@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: seatsService
+server:
+  port: 8083
